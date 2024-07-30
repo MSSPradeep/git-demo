@@ -1,8 +1,5 @@
 first time in git.
 
-<<<<<<< HEAD
-=======
 this line is to check conflict solving.
 
->>>>>>> features
 this line is to check conflict solving.
